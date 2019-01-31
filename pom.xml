@@ -74,5 +74,7 @@
 		<module>cloud-ribbon</module>
 		<module>cloud-hystrix</module>
 		<module>cloud-feign</module>
+		<module>cloud-dashboard</module>
+		<module>cloud-zuul</module>
 	</modules>
 </project>
